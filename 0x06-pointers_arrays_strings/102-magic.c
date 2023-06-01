@@ -1,6 +1,12 @@
 #include <stdio.h>
 
-int main(void
+
+/**
+  * main - Entry point
+  * Description: a short description of the main function
+  * Return: The return value say 0 meaning success
+  */
+int main(void)
 {
 int n;
 int a[5];

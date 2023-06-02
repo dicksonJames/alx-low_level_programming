@@ -13,7 +13,6 @@ int *p;
 
 a[2] = 1024;
 p = &n;
-int a[] = {5, 10, 98, 20, 30};
   /*
    * write your line of code here...
    * Remember:
@@ -21,7 +20,8 @@ int a[] = {5, 10, 98, 20, 30};
    * - you are not allowed to modify p
    * - only one statement
    * - you are not allowed to code anything else than this line of code
-   */
+*/
+int a[] = {5, 10, 98, 20, 30};
 ;
   /* ...so that this prints 98\n */
 printf("a[2] = %d\n", a[2]);
